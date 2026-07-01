@@ -11,12 +11,16 @@ A confidentiality guardrail makes a client-data leak *structurally hard, not jus
 the mechanism is public, the identities never are.
 
 ### How I work
-- Build daily in **Claude Code** with Model Context Protocol connectors; author custom skills,
-  agents, and Python tooling with self-tests.
+- Work daily in **Claude Cowork and Claude Code**, using Model Context Protocol connectors the
+  way a practitioner does — interfacing with Microsoft 365, running research, and verifying
+  citations against primary sources.
+- Build to a **six-folder agent model** — each agent ships a start-here charter, a highly
+  customized golden example, a process spec, context, a quality gate, and KPIs — plus the Python
+  engines that run them, all with self-tests.
 - **Discipline over vibes** — atomic write-then-validate, linters as the contract, git + CI as
   the audit trail.
-- **Model-neutral by design** — the same governed tree runs under Claude, Codex, or Copilot.
-  The logic is the product; the AI is the driver.
+- **Model-neutral by design** — the same governed tree runs under Claude and, as proven, GitHub
+  Copilot. The logic is the product; the AI is the driver.
 
 ### Initial Focus
 Trusts & estates / elder law solo expanding to firm-office-practice-agnostic· legal knowledge management · AI enablement (solo firm → enterprise) · confidentiality and privilege by construction.
