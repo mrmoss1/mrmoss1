@@ -1,5 +1,5 @@
 ## Mike Moss
-**Richmond-based AI ENABLEMENT and a Utah-licensed attorney · legal engineer.** I build tested, governed AI systems for the practice of law — hands-on, in the repo. A JD who turns substantive legal requirements into working software, and the bridge between attorneys and engineers.
+**Richmond-based AI-ENABLEMENT and a Utah-licensed attorney · legal engineer.** I build tested, governed AI systems for the practice of law — hands-on, in the repo. A JD who turns substantive legal requirements into working software, and the bridge between attorneys and engineers.
 
 ### Currently building
 **[ai-operate-system](https://github.com/mrmoss1/ai-operate-system)** — the public,
@@ -22,4 +22,4 @@ the mechanism is public, the identities never are.
 Trusts & estates / elder law solo expanding to firm-office-practice-agnostic· legal knowledge management · AI enablement (solo firm → enterprise) · confidentiality and privilege by construction.
 
 ---
-📍 Richmond, VA AI ENABLEMENT · Utah State Bar · ✉️ mike.moss@mrmosspro.com · **[LinkedIn](https://www.linkedin.com/in/mrmoss1)**
+📍 Richmond, VA AI-ENABLEMENT · Utah State Bar · ✉️ mike.moss@mrmosspro.com · **[LinkedIn](https://www.linkedin.com/in/mrmoss1)**
