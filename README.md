@@ -1,5 +1,5 @@
 ## Mike Moss
-**Richmond-based AI-enablement lead and Utah-licensed attorney — legal engineer.** I build tested, governed AI systems for the practice of law — hands-on, in the repo. A JD who turns substantive legal requirements into working software, and the bridge between attorneys and engineers.
+**Richmond-based AI-enablement lead and Utah-licensed attorney — legal engineer.** I build tested, governed AI systems for professional practices — hands-on, in the repo. A JD who turns substantive professional practice requirements into working software, and the bridge between professionals and engineers.
 
 ### Currently building
 **[ai-operate-system](https://github.com/mrmoss1/ai-operate-system)** — the public,
